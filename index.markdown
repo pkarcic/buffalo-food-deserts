@@ -1,7 +1,8 @@
 ---
-layout: page
-title: About
-permalink: /about/
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
 ---
 
 This research was created to visualize food deserts within Buffalo, NY city lines, and to begin discussion regarding food accessibility and poverty.
@@ -22,11 +23,3 @@ Market location data was collected from the Yelp Fusion API using the [yelpr pac
 Public transportation service gap analysis is planned for future implementation using [ACS 2021 - Survey DP03](https://www.census.gov/acs/www/about/why-we-ask-each-question/commuting) for the city of Buffalo.   
 
 
-
-
-<!-- ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
---- -->

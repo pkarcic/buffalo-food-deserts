@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Census Tract Income
-permalink: /tract-income/
+permalink: /2-tract-income/
 ---
 
 ### Tracts by Poverty

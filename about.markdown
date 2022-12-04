@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /1-about/
 ---
 
 This research was created to visualize food deserts within Buffalo, NY city lines, and to begin discussion regarding food accessibility and poverty.

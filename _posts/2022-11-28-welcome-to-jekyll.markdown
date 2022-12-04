@@ -2,7 +2,7 @@
 layout: post
 title:  "Food Deserts in Buffalo, NY"
 date:   2022-11-28 17:05:22 -0500
-categories: jekyll update
+categories: post
 ---
 
 

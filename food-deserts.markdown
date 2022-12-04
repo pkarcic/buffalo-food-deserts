@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Food Deserts
-permalink: /3-food-deserts/
+permalink: /food-deserts/
 ---
 
 ### Blocks by Food Desert Status

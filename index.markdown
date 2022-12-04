@@ -18,8 +18,6 @@ Finally, individual blocks were marked with red if they reside in a low-income t
 Market location data was collected from the Yelp Fusion API using the [yelpr package](https://github.com/OmaymaS/yelpr).  Data was cleaned and aggregated through R.  Visualizations were created through QGIS.
 
 
-
-
-Public transportation service gap analysis is planned for future implementation using [ACS 2021 - Survey DP03](https://www.census.gov/acs/www/about/why-we-ask-each-question/commuting) for the city of Buffalo.   
+Public transportation service gap analysis, as outlined by [Jiao & Dillivan (2013)](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1054&context=jpt),  is planned for future implementation using [ACS 2021 - Survey DP03](https://www.census.gov/acs/www/about/why-we-ask-each-question/commuting) for the city of Buffalo.   
 
 

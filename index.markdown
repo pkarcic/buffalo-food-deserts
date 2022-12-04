@@ -5,7 +5,7 @@
 layout: home
 ---
 
-#### **About**
+## _**About**_
 This research was created to visualize food deserts within Buffalo, NY city lines, and to begin discussion regarding food accessibility and poverty.
 
 The map was developed first by using 

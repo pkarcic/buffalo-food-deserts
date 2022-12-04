@@ -31,7 +31,6 @@ url: "https://pkarcic.github.io" # the base hostname & protocol for your site, e
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-leaflet
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -6,7 +6,7 @@ permalink: /food-deserts/
 
 Dots indicate supermarkets or grocery stores that sell fresh produce or meats.
 
-Green Blocks indicate that a block is either in a low-income tract and within 0.5 miles from a market, OR are not located in a low-income tract.
+Green Blocks indicate that a block is either in a low-income tract and within 0.5 miles from a market, OR are not located in a low-income tract regardless of distance from a market.
 
 Red Blocks indicate that a block is in a low-income tract AND located more than 0.5 miles from a market.
 
